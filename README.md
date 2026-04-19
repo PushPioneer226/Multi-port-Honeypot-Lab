@@ -55,6 +55,8 @@ First 100 bytes of payload (if any)
 
 Protocol (TCP/UDP)
 
+![Screenshot of honeypot logs](honeypotlogs.jpg)
+
 🚀 Here is how to Run This Yourself
 # Clone the repository
 git clone https://github.com/YOUR_USERNAME/honeypot-lab.git
